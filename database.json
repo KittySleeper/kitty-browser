@@ -1,8 +1,44 @@
 {
   "searchData": [
     {
+      "name": "Google",
+      "description": "Cringe Search Engine!",
+      "tags": ["search engines"],
+      "link": "https://google.com"
+    },
+    {
+      "name": "X",
+      "description": "It's what's happening / X.",
+      "tags": ["social", "media", "twitter"],
+      "link": "https://x.com"
+    },
+    {
+      "name": "TikTok",
+      "description": "Make Your Day.",
+      "tags": ["social", "media", "shorts", "videos"],
+      "link": "https://tiktok.com"
+    },
+    {
+      "name": "Youtube",
+      "description": "Share your videos with friends, family, and the world.",
+      "tags": ["social", "media", "shorts", "videos", "longform"],
+      "link": "https://youtube.com"
+    },
+    {
+      "name": "Spotify",
+      "description": "Web Player: Music for everyone.",
+      "tags": ["music"],
+      "link": "https://spotify.com"
+    },
+    {
+      "name": "Discord",
+      "description": "Group Chat That's All Fun & Games.",
+      "tags": ["social", "media", "chatting", "gaming"],
+      "link": "https://discord.app"
+    },
+    {
       "name": "Nova's Website",
-      "description": "gay sex",
+      "description": "gay sex :33",
       "tags": ["test", "friends"],
       "link": "https://novathefurrydev.github.io/"
     },
@@ -14,7 +50,7 @@
     },
     {
       "name": "GameBanana - Friday Night Funkin'",
-      "description": "Your Main Host For Funkin Mods",
+      "description": "Your Main Host For Funkin Mods.",
       "tags": ["fnf", "fnf mods"],
       "link": "https://gamebanana.com/games/8694"
     }
