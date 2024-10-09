@@ -3,8 +3,26 @@
     {
       "name": "Google",
       "description": "Cringe Search Engine!",
-      "tags": ["search engines"],
+      "tags": ["search engines", "search", "engine", "google"],
       "link": "https://google.com"
+    },
+    {
+      "name": "Wikipedia",
+      "description": "A wiki that you can search anything on.",
+      "tags": ["search engines", "search", "engine", "wiki", "smart", "cheating", "help"],
+      "link": "https://www.wikipedia.org/"
+    },
+    {
+      "name": "ChatGPT",
+      "description": "A very smart AI chat bot that can assist you with anything.",
+      "tags": ["ai", "chatting", "cheating", "school", "help"],
+      "link": "https://chatgpt.com"
+    },
+    {
+      "name": "Pika.Art",
+      "description": "A silly AI that lets you cakeify things, squish things, and more.",
+      "tags": ["ai", "fun", "silly", "images"],
+      "link": "https://pika.art"
     },
     {
       "name": "X",
@@ -21,7 +39,7 @@
     {
       "name": "Youtube",
       "description": "Share your videos with friends, family, and the world.",
-      "tags": ["social", "media", "shorts", "videos", "longform"],
+      "tags": ["social", "media", "shorts", "videos", "longform", "google"],
       "link": "https://youtube.com"
     },
     {
@@ -51,8 +69,38 @@
     {
       "name": "GameBanana - Friday Night Funkin'",
       "description": "Your Main Host For Funkin Mods.",
-      "tags": ["fnf", "fnf mods"],
+      "tags": ["fnf", "fnf mods", "mods"],
       "link": "https://gamebanana.com/games/8694"
+    },
+    {
+      "name": "Friday Night Funkin' - Codename Engine",
+      "description": "The Most Customisable, Moddable, And Flexable, FNF Engine.",
+      "tags": ["fnf", "fnf mods", "mods", "fnf engines", "engines"],
+      "link": "https://gamebanana.com/games/8694"
+    },
+    {
+      "name": "Roblox",
+      "description": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine.",
+      "tags": ["roblox", "games", "imagination", "creativity", "fun"],
+      "link": "https://roblox.com"
+    },
+    {
+      "name": "Bloxstrap",
+      "description": "Makes your roblox client more flexable and moddable.",
+      "tags": ["roblox", "mod"],
+      "link": "https://bloxstraplabs.com"
+    },
+    {
+      "name": "Slope",
+      "description": "A fun ball game. (also you can play this at school :33)",
+      "tags": ["games", "unblocked", "school", "ball", "fun"],
+      "link": "https://goldenn.dev/Slope-Game/"
+    },
+    {
+      "name": "Classic Minecraft",
+      "description": "Lets you experience minecraft like it was in the alpha days.",
+      "tags": ["games", "nestalgia", "minecraft", "fun"],
+      "link": "https://classic.minecraft.net"
     }
   ]
 }
